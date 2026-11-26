@@ -3,8 +3,8 @@
 Trabalho em dupla da disciplina **Estruturas de Dados 2** (Prof. Edkallenn / Ed) — **Tema 4: Árvores Binárias de Busca (BST)**.
 
 ## Integrantes
-- [Nome 1]
-- [Nome 2]
+- Leandro Estrela
+- Luis Henrique
 
 ## Vídeo
 - [Link do vídeo no YouTube/TikTok/Kwai]
