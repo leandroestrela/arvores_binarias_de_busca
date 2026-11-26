@@ -1,6 +1,6 @@
 # Árvores Binárias de Busca (BST) — Estruturas de Dados 2 — UNIPÊ
 
-Trabalho em dupla da disciplina **Estruturas de Dados 2** (Prof. Edkallenn / Ed) — **Tema 4: Árvores Binárias de Busca (BST)**.
+Trabalho em dupla da disciplina **Estruturas de Dados 2** (Prof. Edkallenn) — **Tema 4: Árvores Binárias de Busca (BST)**.
 
 ## Integrantes
 - Leandro Estrela
